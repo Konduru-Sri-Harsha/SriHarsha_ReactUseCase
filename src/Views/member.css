@@ -1,0 +1,60 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Header1 {
+    height: 80pt;
+    background-color: rgba(3, 3, 3, 0.562);
+    margin: 0%;
+}
+
+.header2 {
+    color: rgb(73, 248, 231);
+    font-weight: bolder;
+    display: inline;
+}
+
+button {
+    width: 180px;
+    padding: 10px;
+    margin-left: 80%;
+    margin-top: 0%;
+    background-color: rgb(241, 207, 52);
+    color: rgb(2, 38, 243);
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.Main-Display {
+    background-color: rgba(187, 181, 181, 0.562);
+    margin-top: 3%;
+}
+
+.loop {
+    width: 100px;
+    padding: 5px;
+    color: rgb(243, 93, 93);
+    height: 50px;
+}
+
+.loop1 {
+    width: 100px;
+    padding: 5px;
+    color: rgb(243, 93, 93);
+    height: 50px;
+}
+
+.loop:hover {
+    opacity: 0.3;
+}
+
+.myInput {
+    display: inline-block;
+}

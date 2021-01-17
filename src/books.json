@@ -1,0 +1,45 @@
+[{
+    "SerialId": 1,
+    "BookName": "1984",
+    "Author": "George Orwell",
+    "Genre": "Sci-Fi",
+    "ShelfNumber": 200
+
+}, {
+    "SerialId": 2,
+    "BookName": "Wings of Fire",
+    "Author": "A.P.J. Abdul Kalam",
+    "Genre": "Auto Biography",
+    "ShelfNumber": 201
+
+}, {
+    "SerialId": 3,
+    "BookName": "Hardy Boys",
+    "Author": "Franklin W Dixon",
+    "Genre": "Fantasy",
+    "ShelfNumber": 202
+}, {
+    "SerialId": 4,
+    "BookName": "The 3 Mistakes of My Life",
+    "Author": "Chetan Bhagat",
+    "Genre": "Novel",
+    "ShelfNumber": 203
+}, {
+    "SerialId": 5,
+    "BookName": "Carrie",
+    "Author": "Stephen King",
+    "Genre": "Horror",
+    "ShelfNumber": 204
+}, {
+    "SerialId": 6,
+    "BookName": "To Kill a Mockingbird",
+    "Author": "Hopper Lee",
+    "Genre": "Classic",
+    "ShelfNumber": 205
+}, {
+    "SerialId": 7,
+    "BookName": "Life of pi",
+    "Author": "Yann Martel",
+    "Genre": "Action",
+    "ShelfNumber": 206
+}]

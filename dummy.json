@@ -1,0 +1,36 @@
+{
+  "member": [
+    {
+      "id": 1,
+      "username": "harsha",
+      "password": "harsha"
+    },
+    {
+      "username": "rahul",
+      "password": "rahul",
+      "id": 2
+    },
+    {
+      "username": "sriharsha",
+      "password": "harsha",
+      "id": 3
+    }
+  ],
+  "librarian": [
+    {
+      "id": 1,
+      "username": "harsha",
+      "password": "harsha"
+    },
+    {
+      "username": "rahul",
+      "password": "rahul",
+      "id": 2
+    },
+    {
+      "username": "sriharsha",
+      "password": "harsha",
+      "id": 3
+    }
+  ]
+}
